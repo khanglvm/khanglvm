@@ -2,7 +2,7 @@
 
 I'm a senior frontend engineer at **Navigos Group Vietnam**, based in Ho Chi Minh City. I've been building web products since 2018.
 
-At Navigos, I work on **Navigos Talent One**, including frontend architecture, its landing-page builder, and employer recruitment workflows. I work alongside a junior frontend developer within a product squad and collaborate with backend engineers, product, design, and QA. Earlier work includes VietnamWorks, PRIMUS, and internal recruitment tools.
+At Navigos, I'm part of the core frontend team supporting **Navigos Talent One and VietnamWorks across squads**. My work includes frontend architecture, the NTO landing-page builder, and employer recruitment workflows. I review code, support a junior frontend teammate, and collaborate with backend engineers, product, design, and QA. Earlier work includes PRIMUS and internal recruitment tools.
 
 My latest side project is the [UWANT Vietnam website](https://uwant.khangle.dev), built with WordPress, with product pages, a responsive showroom, and contact workflows.
 
