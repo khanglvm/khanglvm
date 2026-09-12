@@ -9,7 +9,7 @@ My latest side project is the [UWANT Vietnam website](https://uwant.khangle.dev)
 ### Tools I build
 
 - [Relay](https://github.com/khanglvm/relay) gives coding agents a browser board for presenting work, asking questions, and collecting feedback. [npm](https://www.npmjs.com/package/@khanglvm/relay)
-- [Figma Lens](https://github.com/khanglvm/figma-lens) lets agents inspect Figma designs through a CLI or MCP, without Figma Desktop. [npm](https://www.npmjs.com/package/figma-lens)
+- [figma-lens CLI](https://github.com/khanglvm/figma-lens) is my independent tool for inspecting Figma designs through the terminal or MCP. It works without Figma Desktop and is not affiliated with Figma. [npm](https://www.npmjs.com/package/figma-lens)
 - [Jira CLI](https://github.com/khanglvm/jira-cli) brings legacy Jira Server workflows to a short-lived CLI. [npm](https://www.npmjs.com/package/@khanglvm/jira-cli)
 - [Outline CLI](https://github.com/khanglvm/outline-cli) helps agents search and update an Outline knowledge base. [npm](https://www.npmjs.com/package/@khanglvm/outline-cli)
 
