@@ -1,6 +1,6 @@
 ![Khang Le: web engineering and developer tools](assets/banner.png)
 
-I'm a web engineer and team lead at **Navigos Group Vietnam**, based in Ho Chi Minh City. I've been building for the web since 2017.
+I'm a web engineer and team lead at **Navigos Group Vietnam**, based in Ho Chi Minh City. I've been building web products since 2018.
 
 At Navigos, I work on **Navigos Talent One**, including frontend architecture, its landing-page builder, and employer recruitment workflows. Earlier work includes VietnamWorks, PRIMUS, and internal recruitment tools.
 
