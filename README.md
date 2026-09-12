@@ -8,6 +8,7 @@ My latest side project is the [UWANT Vietnam website](https://uwant.khangle.dev)
 
 ### Tools I build
 
+- [React utilities](https://github.com/khanglvm/react) cover shared state, typed translations, and browser events. `createContextState` combines selector hooks with reversible Immer updates for optimistic UI.
 - [Relay](https://github.com/khanglvm/relay) gives coding agents a browser board for presenting work, asking questions, and collecting feedback. [npm](https://www.npmjs.com/package/@khanglvm/relay)
 - [figma-lens CLI](https://github.com/khanglvm/figma-lens) is my independent tool for inspecting Figma designs through the terminal or MCP. It works without Figma Desktop and is not affiliated with Figma. [npm](https://www.npmjs.com/package/figma-lens)
 - [Jira CLI](https://github.com/khanglvm/jira-cli) brings legacy Jira Server workflows to a short-lived CLI. [npm](https://www.npmjs.com/package/@khanglvm/jira-cli)
