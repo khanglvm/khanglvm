@@ -8,11 +8,11 @@ My latest side project is the [UWANT Vietnam website](https://uwant.khangle.dev)
 
 ### Tools I build
 
-- [React utilities](https://github.com/khanglvm/react) cover shared state, typed translations, and browser events. `createContextState` combines selector hooks with reversible Immer updates for optimistic UI.
-- [Relay](https://github.com/khanglvm/relay) gives coding agents a browser board for presenting work, asking questions, and collecting feedback. [npm](https://www.npmjs.com/package/@khanglvm/relay)
-- [figma-lens CLI](https://github.com/khanglvm/figma-lens) is my independent tool for inspecting Figma designs through the terminal or MCP. It works without Figma Desktop and is not affiliated with Figma. [npm](https://www.npmjs.com/package/figma-lens)
-- [Jira CLI](https://github.com/khanglvm/jira-cli) brings legacy Jira Server workflows to a short-lived CLI. [npm](https://www.npmjs.com/package/@khanglvm/jira-cli)
-- [Outline CLI](https://github.com/khanglvm/outline-cli) helps agents search and update an Outline knowledge base. [npm](https://www.npmjs.com/package/@khanglvm/outline-cli)
+- [React utilities](https://github.com/khanglvm/react) cover shared state, typed translations, browser events, and component helpers. `createContextState` combines selector hooks with reversible Immer updates for optimistic UI.
+- [Relay](https://github.com/khanglvm/relay) gives coding agents a browser board for review. Comments stay attached to visual elements or image areas and return to the agent with your decisions. [npm](https://www.npmjs.com/package/@khanglvm/relay)
+- [figma-lens CLI](https://github.com/khanglvm/figma-lens) pairs focused design inspection with an agent skill for checking details and verifying the finished UI. It is my independent tool, not affiliated with Figma. [npm](https://www.npmjs.com/package/figma-lens)
+- [Jira CLI](https://github.com/khanglvm/jira-cli) gives people and agents short commands for legacy Jira Server, with dry runs before changes are sent. [npm](https://www.npmjs.com/package/@khanglvm/jira-cli)
+- [Outline CLI](https://github.com/khanglvm/outline-cli) finds wiki pages by title or URL, returns focused summaries, and checks revisions before applying patches. [npm](https://www.npmjs.com/package/@khanglvm/outline-cli)
 
 Most of my work uses TypeScript, React, Next.js, Angular, and Node.js. I care about clear module boundaries and the details that make interfaces feel right.
 
