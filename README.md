@@ -1,6 +1,6 @@
 ![Khang Le: web engineering and developer tools](assets/banner.png)
 
-I'm Khang, a frontend engineer in Ho Chi Minh City (UTC+7). I've built web products since 2018. Today I work on VietnamWorks, one of Vietnam's largest job sites, and Navigos Talent One, its employer recruitment platform.
+I'm Khang, a frontend engineer based in Vietnam. I've built web products since 2018. Today I work on VietnamWorks, one of Vietnam's largest job sites, and Navigos Talent One, its employer recruitment platform.
 
 Production work I'm proud of:
 
