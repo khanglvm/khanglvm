@@ -1,10 +1,20 @@
 ![Khang Le: web engineering and developer tools](assets/banner.png)
 
-I'm a senior frontend engineer at **Navigos Group Vietnam**, based in Ho Chi Minh City. I've been building web products since 2018.
+I'm Khang, a frontend engineer in Ho Chi Minh City (UTC+7). I've built web products since 2018. Today I work on VietnamWorks, one of Vietnam's largest job sites, and Navigos Talent One, its employer recruitment platform.
 
-At Navigos, I'm part of the core frontend team supporting **Navigos Talent One and VietnamWorks across squads**. My work includes frontend architecture, the NTO landing-page builder, and employer recruitment workflows. I review code, support a junior frontend teammate, and collaborate with backend engineers, product, design, and QA. Earlier work includes PRIMUS and internal recruitment tools.
+Production work I'm proud of:
 
-My latest side project is the [UWANT Vietnam website](https://uwant.com.vn), built with WordPress, with product pages, a responsive showroom, and contact workflows.
+- Built the frontend for AI job posting in Talent One. Employers start a post from a prompt, a JD file or a link, and about 3 in 4 employers who post a job use it each month.
+- Designed core parts of Talent One's app shell: typed nested routing and middleware, a typed API client, app-wide state, and English/Vietnamese switching with no reload.
+- Own the frontend of the recruitment page builder, a paid add-on for branded hiring pages, with pages live for banks and an international talent program.
+- Made the Employer app build 2.4x faster and halved its CI job by reworking the toolchain with TypeScript 7 and Turbopack.
+- Implemented the frontend for candidate recommendations and AI screening in the VietnamWorks Employer job-management app, which I've worked on since 2024.
+
+I'm strongest at frontend architecture for large apps that several squads share, shipping AI features to real users, and keeping builds fast. When a product needs it, I take a feature from the UI through to the Node.js API behind it.
+
+I also build AI agent harnesses and use them in real work. In a blind A/B test, the harness I built for my team doubled agent results on tickets that link a PRD or Figma file.
+
+Outside work I build websites for clients, such as [UWANT Vietnam](https://uwant.com.vn) and [FIX Partner](https://fixpartner.co).
 
 ### Tools I build
 
