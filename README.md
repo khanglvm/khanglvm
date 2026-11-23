@@ -4,7 +4,7 @@ I'm Khang, a frontend engineer based in Vietnam. I've built web products since 2
 
 Production work I'm proud of:
 
-- Built the frontend for AI job posting on Talent One. Employers write a job post from a short prompt, an uploaded JD file or a link, and AI drafts the post from it.
+- Built the frontend for AI job posting on Talent One. Employers give it a short prompt, an uploaded JD file or a link, and it drafts the job post.
 - Built the frontend of Talent One's hiring-page builder, a paid add-on employers use to publish their own recruitment pages. Banks and an international talent program run their hiring pages on it.
 - One of two senior engineers who make most of Talent One's frontend architecture decisions. I wrote the shared state, translation and event utilities that Talent One and VietnamWorks Employer use, and later open-sourced them.
 - Built the frontend for AI candidate recommendations and AI screening on VietnamWorks Employer, which suggest candidates for a job and screen the people who apply.
