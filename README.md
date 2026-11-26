@@ -6,7 +6,9 @@ Production work I'm proud of:
 
 - Built the frontend for AI job posting on Talent One. Employers give it a short prompt, an uploaded JD file or a link, and it drafts the job post.
 - Built the frontend of Talent One's hiring-page builder, a paid add-on employers use to publish their own recruitment pages. Banks and an international talent program run their hiring pages on it.
-- One of two senior engineers who make most of Talent One's frontend architecture decisions. I wrote the shared state, translation and event utilities that Talent One and VietnamWorks Employer use, and later open-sourced them.
+- Designed how Talent One's pages are wired together. Every page, layout, access check and English or Vietnamese web address lives in one typed list, so a developer adds a screen with one entry and a broken link is caught before it ships.
+- Built the app foundations Talent One runs on: the whole app switches between English and Vietnamese without reloading, and features can react to each other (a permission prompt, a profile switch, a warning about unsaved work) without being tied together in code. I later open-sourced these pieces as [Refract](https://refract.khangle.dev) and [React utilities](https://github.com/khanglvm/react).
+- I make the technical decisions for Talent One's seven-person product squad and mentor two engineers.
 - Built the frontend for AI candidate recommendations and AI screening on VietnamWorks Employer, which suggest candidates for a job and screen the people who apply.
 
 My strengths are frontend architecture for large products and shipping AI features to real users. I can also take a feature end to end, from the screens people use to the server behind them.
@@ -17,6 +19,7 @@ Outside work I build websites for clients, such as [UWANT Vietnam](https://uwant
 
 ### Tools I build
 
+- [Refract](https://refract.khangle.dev): my own state library for React. When many parts of a screen share the same data, such as a form or an editor, each part updates only when the piece it shows changes, and every change can be undone.
 - [React utilities](https://github.com/khanglvm/react): ready-made building blocks for web apps made with React, a popular way to build web interfaces. They handle shared data, multiple languages and common screen behavior, so new screens take less code. [npm](https://www.npmjs.com/package/@khanglvm/react)
 - [Relay](https://github.com/khanglvm/relay): lets you review an AI coding assistant's work visually. You pin comments on the exact part of a page or image, and the assistant gets your feedback where it applies. [npm](https://www.npmjs.com/package/@khanglvm/relay)
 - [hookmux](https://github.com/khanglvm/hookmux): AI coding assistants such as Claude Code and Codex can run your own command at set moments, for example right before they run a terminal command. hookmux lets you write that behavior once, as a small plugin, and use it in each of them, such as a rule that stops a forced `git push`. [npm](https://www.npmjs.com/package/hookmux)
